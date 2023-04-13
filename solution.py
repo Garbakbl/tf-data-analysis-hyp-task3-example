@@ -1,8 +1,7 @@
 from scipy.stats import t
 import numpy as np
 
-
-chat_id = 356550601 # Ваш chat ID, не меняйте название переменной
+chat_id = 356550601
 
 def solution(X) -> bool:
     n = len(X)
